@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+chromadb
+faiss-cpu
+logger
+-e .
