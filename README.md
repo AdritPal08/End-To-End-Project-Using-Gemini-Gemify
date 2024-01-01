@@ -37,7 +37,7 @@ Gemify is still a work in progress and there are many ways to improve and extend
 
 
 ## App Image
-![S1](/readme_resources/Gemify.png)
+![S1](https://github.com/AdritPal08/Gemify-LLM-APP/blob/main/readme_resources/Gemify%20.png)
 
 
 ## License :
